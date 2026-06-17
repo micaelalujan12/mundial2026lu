@@ -1,0 +1,25 @@
+
+
+Evaluación Primer Cuatrimestre
+
+1. Creamos una carpeta nueva
+2. Abrimos la carpeta con VSC
+3. Abrimmos la terminal
+4. Iniciamos el proyecto con
+
+    npm init
+
+5. Respondemos todas las preguntas
+6. Instalamos express, mongoose, nodemon, path, hbs
+
+    npm install express
+    npm install mongoose
+    npm install nodemon
+    npm install path
+    npm install hbs
+
+7. Creamos el archivo index.js
+8. Creamos la carpeta database para el archivo de la base de datos
+9. Creamos la carpeta public para guardar la carpeta de los estilos en css
+10. Creamos la carpeta views para los archivos hbs de html
+

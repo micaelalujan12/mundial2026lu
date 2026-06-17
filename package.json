@@ -1,0 +1,18 @@
+{
+  "name": "mundial",
+  "version": "1.0.0",
+  "description": "Evaluación del primer cuatrimestre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micaela Luján y Camila Luján",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "hbs": "^4.2.1",
+    "mongoose": "^9.7.0",
+    "nodemon": "^3.1.14",
+    "path": "^0.12.7"
+  }
+}
