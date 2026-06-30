@@ -22,4 +22,6 @@ Evaluación Primer Cuatrimestre
 8. Creamos la carpeta database para el archivo de la base de datos
 9. Creamos la carpeta public para guardar la carpeta de los estilos en css
 10. Creamos la carpeta views para los archivos hbs de html
-
+11. En index.js importamos todas las librerías que instalamos para la aplicación.
+12. Inicializamos la app en el puerto.
+13. Configuramos la app para que reciba datos.
